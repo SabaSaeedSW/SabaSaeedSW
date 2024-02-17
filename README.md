@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Deep Learning project**
 
-- 🌱 I’m passionate about **Help business to improve humans life.**
+- 🌱 I’m passionate about **Assist businesses in enhancing human life.**
 
 - 🤝 I’m looking for **Data Scientist Opportunities**
 
